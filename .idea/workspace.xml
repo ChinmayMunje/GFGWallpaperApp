@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3c7aed6-0ddf-4a65-8474-5bc56cb3a886" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/GFGWallpaperApp/app/src/main/java/com/example/gfgwallpaperapp/RetrofitAPI.kt" beforeDir="false" afterPath="$PROJECT_DIR$/GFGWallpaperApp/app/src/main/java/com/example/gfgwallpaperapp/RetrofitAPI.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2aXAtamArnMpXd0SIVwODKMrsKq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3c7aed6-0ddf-4a65-8474-5bc56cb3a886" name="Default Changelist" comment="" />
+      <created>1704454765396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704454765396</updated>
+    </task>
+    <servers />
+  </component>
+</project>
