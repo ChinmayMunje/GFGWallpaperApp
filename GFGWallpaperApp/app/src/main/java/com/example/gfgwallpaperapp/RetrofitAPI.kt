@@ -7,12 +7,12 @@ import retrofit2.http.Query
 
 interface RetrofitAPI {
 
-    @Headers("Authorization: sL5zXvZSOEHzxqlHeVvbUzHmB0EgMIVBJ7yCtCfp2mvMa3ofJ803Q8pH")
+    @Headers("Authorization: Enter Your Key")
     @GET("curated?per_page=30&page=1")
     fun getWallpapers(): Call<WallpaperRVModal>?
 
 
-    @Headers("Authorization: sL5zXvZSOEHzxqlHeVvbUzHmB0EgMIVBJ7yCtCfp2mvMa3ofJ803Q8pH")
+    @Headers("Authorization: Enter Your Key")
     @GET("search?")
     fun getWallpaperByCategory(
         @Query("query")  category:String,
